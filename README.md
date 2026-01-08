@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 My name is Seril Evanjaline
 
-<!--
-**Seril12/Seril12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer
 
-Here are some ideas to get you started:
+- 🌍 I’m based in India  
+- ✉️ You can contact me at **serilevanjaline122006@gmail.com**  
+- 🧠 I’m learning **AWS Cloud** and exploring cloud architecture  
+- 💻 I’m working on **full‑stack projects**   
+- 🤝 I’m open to collaborating on **cloud, backend, and full‑stack web apps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![Seril’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Seril12&show_icons=true&theme=radical)
+
+---
+
+## 🛠️ Tech Stack
+
+- Languages: Go, JavaScript, TypeScript, Java 
+- Web: React, Next.js, Node.js  
+- Cloud & DevOps: AWS, Docker (learning)  
+- Other: Git, REST APIs
+  ### 🔧 Tech Stack Icons
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,js,ts,java,react,nextjs,nodejs,aws,docker,git,github&perline=6" alt="Tech Stack" />
+</p>
+
