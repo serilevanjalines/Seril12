@@ -10,11 +10,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Seril's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seril12&show_icons=true&theme=radical)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -22,6 +17,6 @@
 - Web: React, Next.js, Node.js  
 - Other: Git, REST APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,js,ts,java,react,nextjs,nodejs,aws,docker,git,github&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,js,ts,java,react,nextjs,nodejs,aws,git,github&perline=6" alt="Tech Stack" />
 </p>
 
